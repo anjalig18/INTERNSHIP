@@ -57,6 +57,6 @@ If you have any questions or would like to get in touch, please feel free to con
 
 - Email: anjalig1810@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/anjali-gupta-2774a1222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiYSpG%2BG0Q42TK85esexd5g%3D%3D)
-- GitHub: (http://github.com/anjalig18
+- GitHub: (http://github.com/anjalig18)
 
 Thank you for viewing my projects!
